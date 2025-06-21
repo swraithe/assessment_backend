@@ -1,0 +1,96 @@
+{
+  "monthlyData": [
+    { "month": "10k", "income": 30000, "expenses": 35000 },
+    { "month": "20k", "income": 25000, "expenses": 40000 },
+    { "month": "30k", "income": 32000, "expenses": 35000 },
+    { "month": "40k", "income": 28000, "expenses": 40000 },
+    { "month": "50k", "income": 35000, "expenses": 45000 },
+    { "month": "60k", "income": 30000, "expenses": 50000 },
+    { "month": "70k", "income": 32000, "expenses": 45000 },
+    { "month": "80k", "income": 35000, "expenses": 55000 }
+  ],
+
+  "companyStats": [
+    {
+      "id": "1",
+      "name": "GNote",
+      "value": 35,
+      "monthlyChange": 25,
+      "increase": 456.8
+    },
+    {
+      "id": "2",
+      "name": "Office",
+      "value": 40,
+      "monthlyChange": 15,
+      "increase": 350.2
+    },
+    {
+      "id": "3",
+      "name": "RCloud",
+      "value": 25,
+      "monthlyChange": 30,
+      "increase": 525.5
+    }
+  ],
+
+  "developerTrends": [
+    { "month": "1m", "react": 65, "javascript": 45 },
+    { "month": "2m", "react": 55, "javascript": 50 },
+    { "month": "3m", "react": 70, "javascript": 45 },
+    { "month": "4m", "react": 60, "javascript": 65 },
+    { "month": "5m", "react": 75, "javascript": 55 },
+    { "month": "6m", "react": 65, "javascript": 70 },
+    { "month": "7m", "react": 80, "javascript": 75 },
+    { "month": "8m", "react": 70, "javascript": 85 }
+  ],
+
+  "employeeDistribution": [
+    { "year": 2021, "coders": 45, "designers": 55 },
+    { "year": 2021, "coders": 50, "designers": 40 },
+    { "year": 2021, "coders": 55, "designers": 65 },
+    { "year": 2021, "coders": 40, "designers": 45 },
+    { "year": 2022, "coders": 55, "designers": 50 },
+    { "year": 2022, "coders": 50, "designers": 60 },
+    { "year": 2022, "coders": 45, "designers": 70 }
+  ],
+
+  "productPerformance": [
+    {
+      "id": "1",
+      "name": "Product A",
+      "percentage": 10,
+      "period": "Mar - Jan 2022"
+    },
+    {
+      "id": "2",
+      "name": "Product B",
+      "percentage": 15,
+      "period": "Mar - Jan 2022"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@aidonic.com",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User"
+    },
+    {
+      "id": "2",
+      "email": "user@aidonic.com",
+      "password": "user123",
+      "role": "user",
+      "name": "Regular User"
+    }
+  ],
+
+  "normalsChart": [
+    { "month": "Jan", "expected": 500, "actual": 950 },
+    { "month": "Feb", "expected": 600, "actual": 850 },
+    { "month": "Mar", "expected": 750, "actual": 1400 },
+    { "month": "Apr", "expected": 800, "actual": 950 }
+  ]
+}
