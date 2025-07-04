@@ -23,9 +23,9 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noUncheckedIndexedAccess": true,
-    "baseUrl": ".",
+    "baseUrl": "src",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["*"]
     }
   },
   "include": [
